@@ -1,0 +1,8 @@
+C:\Users\viore\source\repos\lab1PR\bin\Debug\lab1PR.exe.config
+C:\Users\viore\source\repos\lab1PR\bin\Debug\lab1PR.exe
+C:\Users\viore\source\repos\lab1PR\bin\Debug\lab1PR.pdb
+C:\Users\viore\source\repos\lab1PR\bin\Debug\System.Drawing.Common.dll
+C:\Users\viore\source\repos\lab1PR\obj\Debug\lab1PR.csproj.CopyComplete
+C:\Users\viore\source\repos\lab1PR\obj\Debug\lab1PR.exe
+C:\Users\viore\source\repos\lab1PR\obj\Debug\lab1PR.pdb
+C:\Users\viore\source\repos\lab1PR\obj\Debug\lab1PR.csprojAssemblyReference.cache
